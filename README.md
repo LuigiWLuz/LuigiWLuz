@@ -35,4 +35,8 @@ Futuro Desenvolvedor cursando Análise e Desenvolvimento de Sistemas no IFSP, ap
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiWLuz&hide_progress=true&bg_color=00000000)
 
 #
-![Snake animation](https://github.com/LuigiWLuz/LuigiWluz/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuigiWLuz/LuigiWLuz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuigiWLuz/LuigiWLuz/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuigiWLuz/LuigiWLuz/output/github-contribution-grid-snake.svg">
+</picture>
