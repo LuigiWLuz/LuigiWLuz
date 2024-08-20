@@ -30,7 +30,7 @@ Futuro Desenvolvedor cursando Análise e Desenvolvimento de Sistemas no IFSP, ap
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuigiWLuz&repo=Jogo-da-Velha.&&theme=dark" />
 </a>
 
-#### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
+#### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;border-radius: 10px;">  Minhas estatísticas do GitHub: 
 ![Luigi GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiWLuz&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiWLuz&hide_progress=true&bg_color=00000000)
 
